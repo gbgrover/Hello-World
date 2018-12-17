@@ -1,3 +1,3 @@
 # Hello-World
 Another repository
-this is where i change thinsg and edit code 
+Creating a readme filea as part of an exercise 
